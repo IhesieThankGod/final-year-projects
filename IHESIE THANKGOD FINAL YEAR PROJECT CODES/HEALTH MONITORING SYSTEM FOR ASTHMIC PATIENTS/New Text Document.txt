@@ -1,0 +1,8 @@
+Database name       id19003837_lollyproject
+Database username   id19003837_lollyuser
+Password            CBD=kkMX9-D>IzqP
+DB Host             localhost
+
+pulse sensor goes to AO
+ds18b20 goes to D2 which is GPIO pin4
+ds18b20 also uses 4.7k ohm resistor
