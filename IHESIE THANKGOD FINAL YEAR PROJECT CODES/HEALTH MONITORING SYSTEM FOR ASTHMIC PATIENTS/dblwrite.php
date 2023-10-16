@@ -1,17 +1,12 @@
-// Code Written by Rishi Tiwari
-// Website:- https://tricksumo.com
-// Reference:- https://www.w3schools.com/php/php_mysql_insert.asp
-//
-//
 
 <?php
 
 
 
     $host = "localhost";		         // host = localhost because database hosted on the same server where PHP files are hosted
-    $dbname = "id19003837_lollyproject";              // Database name
-    $username = "id19003837_lollyuser";		// Database username
-    $password = "CBD=kkMX9-D>IzqP";	        // Database password
+    $dbname = " ";              // Database name
+    $username = " ";		// Database username
+    $password = " ";	        // Database password
 
 
 // Establish connection to MySQL database
@@ -52,10 +47,7 @@ else { echo "Connected to mysql database. "; }
 		}
 	}
 
-
 // Close MySQL connection
 $conn->close();
-
-
 
 ?>
