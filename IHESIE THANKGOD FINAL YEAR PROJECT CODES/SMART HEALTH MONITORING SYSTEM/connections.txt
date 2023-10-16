@@ -1,0 +1,12 @@
+NODEMCU connection
+
+Data pin of pulse sensor goes to A0 
+
+GND pin of LCD goes to GND
+VCC pin of LCD goes to 3.3V
+SCL pin of LCD goes to D3
+SDA pin of LCD goes to D4
+
+Data pin of DS18B20 temp sensor goes to D2
+the data pin of DS18b20 is connected to 4.7k ohm resistor to +ve
+
